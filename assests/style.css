@@ -3,10 +3,7 @@ strong {
 }
 
 body {
-  background-image: url('pictures/2.jpg');
-  background-size: cover;       /* La imagen cubre toda la pantalla */
-  background-position: center;  /* Centra la imagen */
-  background-repeat: no-repeat; /* Evita que se repita */
+  background-color: aqua;
 }
 
 h1 {
